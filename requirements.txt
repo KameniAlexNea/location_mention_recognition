@@ -1,0 +1,18 @@
+nltk==3.8.1
+pandas
+numpy
+torch
+transformers[torch]
+gliner
+seqeval
+datasets
+wandb
+optimum[exporters]
+accelerate
+evaluate
+llama-index
+llama-index-llms-huggingface
+bitsandbytes
+jiwer
+flair
+# tner
